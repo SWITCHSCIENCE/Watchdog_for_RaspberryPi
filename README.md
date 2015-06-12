@@ -3,7 +3,7 @@ Watchdog timer board for RaspberryPi
 
 http://trac.switch-science.com/wiki/Watch_dog_for_RPi
 
-``
+```
 /Watchdog_for_RaspberryPi
   |-- /ATTiny
   |     |-- WDtimer.c    ファームウェアのCのソースファイル
@@ -15,5 +15,5 @@ http://trac.switch-science.com/wiki/Watch_dog_for_RPi
   |
   |-- /Python_RPi
         |-- blink17.py     Paspberry Pi側のサンプルプログラム
-``
+```
 
