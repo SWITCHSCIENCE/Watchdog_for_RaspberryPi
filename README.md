@@ -6,14 +6,14 @@ http://trac.switch-science.com/wiki/Watch_dog_for_RPi
 ```
 /Watchdog_for_RaspberryPi
   |-- /ATTiny
-  |     |-- WDtimer.c    ファームウェアのCのソースファイル
-  |     |-- WDtimer.h    ファームウェアのヘッダファイル
+  |     |-- WDtimer.c    .c source file 
+  |     |-- WDtimer.h    .h source file
   |
   |-- /Hardware
-  |     |-- Watch_dog_for_RPi_BP_Rev2.pdf     Raspberry Pi Model B+用ウォッチドッグ基板の回路図
-  |     |-- Watch_dog_for_RPi_Rev2.pdf        Raspberry Pi Model B用ウォッチドッグ基板の回路図
+  |     |-- Watch_dog_for_RPi_BP_Rev2.pdf     Circuit diagram ( Watchdog for Raspberry Pi Model B+)
+  |     |-- Watch_dog_for_RPi_Rev2.pdf        Circuit diagram ( Watchdog for Raspberry Pi Model B)
   |
   |-- /Python_RPi
-        |-- blink17.py     Paspberry Pi側のサンプルプログラム
+        |-- blink17.py     Sample Python Program for Paspberry Pi
 ```
 
